@@ -1,2 +1,3 @@
 Soil is the major land carbon sink followed by litter and woody debris pools.
 #Soil acting as a carbon sink can be modelled and this conclusion is made from much data 
+#Ocean sink is another major sink 
